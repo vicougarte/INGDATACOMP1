@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Académico ING DATA COMP",
+  "description": "Sistema de inscripciones y rendimiento académico para el Instituto Tecnológico ING DATA COMP de Cochabamba, Bolivia con base de datos en Google Sheets y Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
